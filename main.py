@@ -35,6 +35,9 @@ async def phrase(name: str):
     result = wikiphrases(name)
     return {"result": result}
 
+@app.get("/end")
+async def end():
+    return {"message": "Bye"}
 
 if __name__ == "__main__":
     uvicorn.run(app, port=8080, host="0.0.0.0")
