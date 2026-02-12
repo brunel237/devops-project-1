@@ -1,5 +1,7 @@
 [![Python Application with Github Actions](https://github.com/brunel237/devops-project-1/actions/workflows/devops.yml/badge.svg)](https://github.com/brunel237/devops-project-1/actions/workflows/devops.yml)
 
+[![Python Application with Github Actions](https://codebuild.eu-north-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiMGJtTWJwUnA0V0tQN1puNEE5dnExYmxEUTUwcEhtc2RPRDIyQlVsQ1RwUmRCTGY0L0wrTEpMdmZKb0xxQUFXT2tCeGJXKytuOUhuclRVamFnWnVUelFJPSIsIml2UGFyYW1ldGVyU3BlYyI6IlZldXJFVjZiTkwrMVVScVMiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+
 ## Scaffold:
 -> makefile/
 requirements.txt
